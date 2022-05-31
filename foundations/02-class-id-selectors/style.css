@@ -1,0 +1,19 @@
+p {
+  background-color: #f08080;
+  font-family: Verdana, 'Dejavu Sans', sans-serif;
+}
+
+p.cooler {
+  font-size: 24px;
+}
+
+#one {
+  color: #0000ff;
+  font-size: 36px;
+}
+
+#another {
+  background-color: #90ee90;
+  font-weight: bold;
+  font-size: 24px;
+}
